@@ -1,4 +1,7 @@
-# Businesscontacts
+# FirebaseBusinessListings
+
+This project is created with angular 4 framework and firebase.
+AngularFire2 library is used to use Firebase.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
