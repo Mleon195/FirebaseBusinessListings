@@ -1,0 +1,21 @@
+{
+    "0" : {
+        "name" : "IT"
+    },
+
+    "1" : {
+        "name" : "Retail"
+    },
+
+    "2" : {
+        "name" : "Gaming"
+    },
+
+    "3" : {
+        "name" : "Marketing"
+    },
+
+    "4" : {
+        "name" : "CPU"
+    }
+}

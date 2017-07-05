@@ -1,0 +1,69 @@
+{
+        "0" : {
+            "category" : "Retail",
+            "city" : "Delhi",
+            "company" : "JumpXS",
+            "description" : "Some random text thats not related to anything",
+            "email" : "jumpxs.cd",
+            "phone" : "+918514793658",
+            "state" : "delhi",
+            "street_address" : "78 claudan street",
+            "years_in_business" : 7,
+            "zipcode" : "57757"
+        },
+
+        "1" : {
+            "category" : "IT",
+            "city" : "Gurgaon",
+            "company" : "LAZZ",
+            "description" : "Some random text thats not related to anything",
+            "email" : "gwsdgj.vf",
+            "phone" : "+914676769674",
+            "state" : "Haryana",
+            "street_address" : "344 carlton street",
+            "years_in_business" : 4,
+            "zipcode" : "35345"
+        },
+
+        "2" : {
+            "category" : "Sales",
+            "city" : "Noida",
+            "company" : "shopify",
+            "description" : "Some random text thats not related to anything",
+            "email" : "gsfsdaf.hj",
+            "phone" : "+9147657657465",
+            "state" : "UP",
+            "street_address" : "465 damon street",
+            "years_in_business" : 3,
+            "zipcode" : "5765"
+        },
+
+        "3" : {
+            "category" : "Marketing",
+            "city" : "Gurgaon",
+            "company" : "HYPE",
+            "description" : "Some random text thats not related to anything",
+            "email" : "dfedfedf.ef",
+            "phone" : "+91465765465",
+            "state" : "Haryana",
+            "street_address" : "674 jessica park street",
+            "years_in_business" : 8,
+            "zipcode" : "746574"
+        },
+
+        "4" : {
+            "category" : "Production",
+            "city" : "Bhopal",
+            "company" : "fipcj",
+            "description" : "Some random text thats not related to anything",
+            "email" : "efrwef.fe",
+            "phone" : "+91746746587",
+            "state" : "MP",
+            "street_address" : "14 kamigari street",
+            "years_in_business" : 5,
+            "zipcode" : "45496"
+        }
+
+        
+    
+}
